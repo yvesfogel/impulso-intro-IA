@@ -3,14 +3,18 @@ Material para el curso de introduccion practica a Inteligencia Artificial para L
 
 ## Herramientas que vamos a estar usando
 p5.js
+
 ml5.js
+
 [Teachable machine](https://teachablemachine.withgoogle.com/)
+
 [p5.js web editor](https://editor.p5js.org/)
 
 Si van a usar p5.js text editor, recurden importar ml5.js
 
 ```javascript
-<script src="https://unpkg.com/ml5@latest/dist/ml5.min.js"></script>```
+<script src="https://unpkg.com/ml5@latest/dist/ml5.min.js"></script>
+```
 
 ## Estructura del Curso
 
