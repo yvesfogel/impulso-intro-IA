@@ -20,14 +20,16 @@ Si van a usar p5.js text editor, recurden importar ml5.js:
 ### Seccion practica
 #### Clasificacion de Imagen con Teachable Machine
 
-Cambiando colores
+##### Cambiando colores con webcam
 
 
-Audio
-
-Clasificador de emojis
-https://editor.p5js.org/yvesfogel/sketches/eTLuT8gHz
+##### viborita con webcam
 
 
+#### Clasificacion de Audio con Teachable Machine
 
-Pose
+##### [Clasificador de emojis](https://editor.p5js.org/yvesfogel/sketches/eTLuT8gHz)
+
+##### [Viborita](https://editor.p5js.org/yvesfogel/sketches/qF5Vi3XAE)
+
+#### Deteccion de Pose con ml5.js
