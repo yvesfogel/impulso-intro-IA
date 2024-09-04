@@ -18,18 +18,20 @@ Si van a usar p5.js text editor, recurden importar ml5.js:
 [Diapositivas del curso](https://docs.google.com/presentation/d/1ViUKM0f1d_DaX64AHYCupJl_nhr0GSfOCrARx3SQAEo/edit?usp=sharing)
 
 ### Seccion practica
+
+#### Como entrenar una Inteligencia Artificial con Teachable Machine
+- Elegir si es un proyecto de imagen, audio o pose
+- 
+
 #### Clasificacion de Imagen con Teachable Machine
 
-##### Cambiando colores con webcam
-
-
-##### viborita con webcam
-
+##### [Imprimiendo objetos](https://editor.p5js.org/yvesfogel/sketches/qF5Vi3XAE)
+##### [Cambiando colores con webcam](https://editor.p5js.org/yvesfogel/sketches/dw5vsVvmv)
 
 #### Clasificacion de Audio con Teachable Machine
 
 ##### [Clasificador de emojis](https://editor.p5js.org/yvesfogel/sketches/eTLuT8gHz)
-
-##### [Viborita](https://editor.p5js.org/yvesfogel/sketches/qF5Vi3XAE)
+##### Viborita - [comienzo](https://editor.p5js.org/yvesfogel/sketches/ZS2itiHKc) - [final](https://editor.p5js.org/yvesfogel/sketches/qF5Vi3XAE)
 
 #### Deteccion de Pose con ml5.js
+##### Detectemos las partes del cuerpo
