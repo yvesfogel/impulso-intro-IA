@@ -21,7 +21,10 @@ Si van a usar p5.js text editor, recurden importar ml5.js:
 
 #### Como entrenar una Inteligencia Artificial con Teachable Machine
 - Elegir si es un proyecto de imagen, audio o pose
-- 
+- Determinar las distintas clases
+- Conseguir mucha data para cada clase, pensando bien lo que queremos que el modelo aprenda
+- Entrenar el modelo
+- Subir o descargar el modelo
 
 #### Clasificacion de Imagen con Teachable Machine
 
