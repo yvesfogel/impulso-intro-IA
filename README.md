@@ -28,7 +28,7 @@ Si van a usar p5.js text editor, recurden importar ml5.js:
 
 #### Clasificacion de Imagen con Teachable Machine
 
-##### [Imprimiendo objetos](https://editor.p5js.org/yvesfogel/sketches/qF5Vi3XAE)
+##### [Imprimiendo predicciones](https://editor.p5js.org/yvesfogel/sketches/PVrz20B2f)
 ##### [Cambiando colores con webcam](https://editor.p5js.org/yvesfogel/sketches/dw5vsVvmv)
 
 #### Clasificacion de Audio con Teachable Machine
