@@ -26,6 +26,8 @@ Si van a usar p5.js text editor, recurden importar ml5.js:
 - Entrenar el modelo
 - Subir o descargar el modelo
 
+#### [Codigo base](https://editor.p5js.org/yvesfogel/sketches/iULTI92J0)
+
 #### Clasificacion de Imagen con Teachable Machine
 
 ##### [Imprimiendo predicciones](https://editor.p5js.org/yvesfogel/sketches/PVrz20B2f)
