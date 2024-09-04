@@ -34,4 +34,4 @@ Si van a usar p5.js text editor, recurden importar ml5.js:
 ##### Viborita - [comienzo](https://editor.p5js.org/yvesfogel/sketches/ZS2itiHKc) - [final](https://editor.p5js.org/yvesfogel/sketches/qF5Vi3XAE)
 
 #### Deteccion de Pose con ml5.js
-##### Detectemos las partes del cuerpo
+##### [Detectemos las partes del cuerpo](https://editor.p5js.org/yvesfogel/sketches/4kTDyZ3mT)
